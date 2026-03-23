@@ -1,6 +1,6 @@
 cask "codebar" do
-  version "1.0.0"
-  sha256 "007a8b8189d164ceb11462eb7863999ca2f7149a12c59ce409157718591367cb"
+  version "1.0.1"
+  sha256 "7e97967692341d9137246e6db79cfb977cb50a7dfe8fe5ebc248f4ad867c6443"
 
   url "https://github.com/jxc/codebar/releases/download/v#{version}/CodeBar-v#{version}.dmg"
   name "CodeBar"
